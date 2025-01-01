@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on Front-end
-- 🤔 I’m looking for help with Express.js
-- 💬 Ask me about Angular
-- 📫 How to reach me: anujgupta940510@gmail.com
+- 🔭 I’m currently working on NextJS
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on Front-end & Backend
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about React, Angular, NextJS
+- 📫 How to reach me: anuj.gupta94@yahoo.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love cricket!
